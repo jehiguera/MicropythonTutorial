@@ -1,2 +1,2 @@
 # MicropythonTutorial
-Micropython tutorial with PYBv1.1 board
+Code examples in MicroPython for Raspberry Pico
